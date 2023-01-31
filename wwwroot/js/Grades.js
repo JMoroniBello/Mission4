@@ -30,7 +30,7 @@ $("#btnCalc").click(function () {
     }
 
     //return html with grade
-    $('#fGrade').html('Letter Grade: ' + fnGrdLtr + '\nPercentage: ' + fnGrdPct)
-  
+    $('#fGrade').html('Letter Grade: ' + fnGrdLtr + '<br/>Percentage: ' + fnGrdPct)
+    
 
 })

@@ -1,0 +1,20 @@
+﻿body {
+    background-color:lightgray;
+}
+
+.pic{
+    height: 250px;
+}
+
+h4{
+    font-style:italic;
+    font-family:'Comic Sans MS';
+}
+
+div{
+    margin: 10px;
+}
+
+p{
+    width: 45%;
+}
